@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 16511b61e950c5e48bc8a8fd79afaf4d
+timeCreated: 1522655145
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Retro Computer
+  fontNames:
+  - Retro Computer
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
